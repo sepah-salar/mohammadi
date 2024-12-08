@@ -5,11 +5,10 @@
 <html lang="en">
     
 <head>
-    
     <meta charset="UTF-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="lagin.css">
+    <link rel="stylesheet" href="laginn.css">
 
     
    
@@ -19,6 +18,10 @@
 
 <body>
     
+<div id="div1">
+        <a href="index.php"><img src="hom.png" width="110px" height="85px" ></a>
+    </div>
+
     
 <div class="main">
 <input type="checkbox" id="chktoggle" aria-hidden="true">
